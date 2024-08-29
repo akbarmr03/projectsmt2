@@ -1,2 +1,0 @@
-# projectsmt2
-apalah
